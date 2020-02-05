@@ -40,20 +40,6 @@ A: Lightstream is a great way increase your security<br>
 </p>
 </center>
 
-
-
-<center>
-<h3>FAQ</h3>
-<p>
-Q: I don't get it. Wifi and BT is great<br>
-A: Lightstream works offline <br><br>
-Q: What about USB-sticks? <br>
-A: Every time you connect USB it can carry viruses<br> <br>
-Q: Why should I trust lightstream?<br>
-A: Lightstream works offline. We can't reach it.<br> <br>
-</p>
-</center>
-
 <center>
 <h3>About</h3>
 <p>
