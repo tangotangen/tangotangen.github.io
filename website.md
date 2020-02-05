@@ -34,8 +34,9 @@ A: Lightstream works offline. We can't reach it.<br> <br>
 Q: How will you make money?<br>
 A: As Lightstream matures, we will build an eco-system around it. <br><br>
 Q: So this is like Airdrop?<br>
-A: Airdrop doesn't work on from iPhone to Android
-
+A: Airdrop doesn't work on from iPhone to Android<br><br>
+Q: Why should I use Lightstream?<br>
+A: Lightstream is a great way increase your security<br>
 </p>
 </center>
 
