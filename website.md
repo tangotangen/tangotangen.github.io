@@ -4,7 +4,7 @@
 <font size="6">
 <b>Lightstream</b></font><br><br>
 <img width="200" alt="img" src="http://lightstream.to/lightstream.svg">
-<br><br><br>
+<br><br>
 <a href="#FAQ">Features</a> -
 <a href="#ABOUT">FAQ</a> -
 <a href="#ABOUT">About</a> -
