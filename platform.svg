@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2000px" height="2000px" viewBox="0 0 2000 2000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>platform</title>
+    <desc>Created with Sketch.</desc>
+    <g id="platform" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1406.000000, 832.000000)" stroke="#000000" stroke-width="12">
+            <path d="M293,312 L152,312 L152,364 C152,372.836556 159.163444,380 168,380 L277,380 C285.836556,380 293,372.836556 293,364 L293,312 Z" id="Combined-Shape"></path>
+            <rect id="Rectangle-Copy-2" x="6" y="6" width="433" height="306" rx="22"></rect>
+            <rect id="Rectangle-Copy-2" x="48" y="54" width="349" height="205" rx="11"></rect>
+            <circle id="Oval" cx="223" cy="30" r="10"></circle>
+        </g>
+        <g id="Group-2" transform="translate(895.000000, 1509.000000)" stroke="#000000" stroke-width="12">
+            <rect id="Rectangle" x="6" y="6" width="107" height="211" rx="32"></rect>
+            <circle id="Oval" cx="60" cy="176" r="14"></circle>
+            <rect id="Rectangle" x="31" y="31" width="58" height="111" rx="22"></rect>
+        </g>
+        <g id="Group-2-Copy" transform="translate(142.000000, 844.000000)" stroke="#000000" stroke-width="12">
+            <rect id="Rectangle" x="6" y="6" width="224" height="290" rx="32"></rect>
+            <circle id="Oval" cx="118" cy="253" r="14"></circle>
+            <rect id="Rectangle" x="31" y="31" width="178" height="187" rx="22"></rect>
+        </g>
+        <path d="M730,982.5 L443,982" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square" stroke-dasharray="10,20"></path>
+        <g id="Group-7" transform="translate(460.500000, 982.000000) rotate(-180.000000) translate(-460.500000, -982.000000) translate(443.000000, 950.000000)" stroke="#000000" stroke-dasharray="10,20" stroke-linecap="square" stroke-width="10">
+            <path d="M34,34 L0,0" id="Line-Copy"></path>
+            <path d="M34,34 L4,64" id="Line-Copy"></path>
+        </g>
+        <path d="M1325,982.5 L1153,982.5" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square" stroke-dasharray="10,20"></path>
+        <g id="Group-7" transform="translate(1321.000000, 950.000000)" stroke="#000000" stroke-dasharray="10,20" stroke-linecap="square" stroke-width="10">
+            <path d="M34,34 L0,0" id="Line-Copy"></path>
+            <path d="M34,34 L4,64" id="Line-Copy"></path>
+        </g>
+        <path d="M952,1202 L955,1459" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square" stroke-dasharray="10,20"></path>
+        <g id="Group-7" transform="translate(955.000000, 1441.500000) rotate(-270.000000) translate(-955.000000, -1441.500000) translate(937.500000, 1409.500000)" stroke="#000000" stroke-dasharray="10,20" stroke-linecap="square" stroke-width="10">
+            <path d="M34,34 L0,0" id="Line-Copy"></path>
+            <path d="M34,34 L4,64" id="Line-Copy"></path>
+        </g>
+        <path d="M949.5,546.937431 L949.5,776" id="Line" stroke="#000000" stroke-width="10" stroke-linecap="square" stroke-dasharray="10,20"></path>
+        <text id="Tablet" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" fill="#000000">
+            <tspan x="186.324" y="1236">Tablet</tspan>
+        </text>
+        <text id="Smart-phones" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" fill="#000000">
+            <tspan x="775.052" y="1832">Smart-phones</tspan>
+        </text>
+        <text id="Smart-Watch" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" fill="#000000">
+            <tspan x="795.048" y="193">Smart-Watch</tspan>
+        </text>
+        <text id="Desktop-/-Television" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" fill="#000000">
+            <tspan x="1351.008" y="1317">Desktop / Televisions</tspan>
+        </text>
+        <g id="Group-3" transform="translate(948.500000, 360.500000) rotate(-90.000000) translate(-948.500000, -360.500000) translate(840.000000, 191.000000)" stroke="#000000" stroke-width="12">
+            <g id="Group-4" transform="translate(49.002057, 0.000000)">
+                <path d="M112.607287,53 C109.39951,26.5053226 86.829822,6 59.4979429,6 C32.1660638,6 9.59637601,26.5053226 6.38859901,53 L112.607287,53 Z" id="Path"></path>
+                <circle id="Oval-Copy" cx="59.9979429" cy="32" r="8"></circle>
+            </g>
+            <g id="Group-4-Copy" transform="translate(108.502057, 309.500000) rotate(-180.000000) translate(-108.502057, -309.500000) translate(49.002057, 280.000000)">
+                <path d="M112.607287,53 C109.39951,26.5053226 86.829822,6 59.4979429,6 C32.1660638,6 9.59637601,26.5053226 6.38859901,53 L112.607287,53 Z" id="Path"></path>
+                <circle id="Oval-Copy" cx="59.9979429" cy="32" r="8"></circle>
+            </g>
+            <rect id="Rectangle" x="6" y="55" width="205" height="228" rx="70"></rect>
+            <rect id="Rectangle" x="32" y="83" width="153" height="172" rx="50"></rect>
+        </g>
+        <path d="M940,1202 C1057.63665,1202 1153,1106.63665 1153,989 C1153,871.363348 1057.63665,776 940,776 C822.363348,776 727,871.363348 727,989 C727,1106.63665 822.363348,1202 940,1202 Z" id="Oval" stroke="#000000" stroke-width="10" stroke-dasharray="20,10"></path>
+        <text id="Multi-Platform-shari" font-family="HelveticaNeue, Helvetica Neue" font-size="56" font-weight="normal" fill="#000000">
+            <tspan x="879.292" y="950">Multi</tspan>
+            <tspan x="834.716" y="1015">Platform </tspan>
+            <tspan x="848.716" y="1080">sharing</tspan>
+        </text>
+        <g id="Group-7" transform="translate(946.712960, 540.295381) rotate(-90.000000) translate(-946.712960, -540.295381) translate(929.212960, 508.295381)" stroke="#000000" stroke-dasharray="10,20" stroke-linecap="square" stroke-width="10">
+            <path d="M34,34 L0,0" id="Line-Copy"></path>
+            <path d="M34,34 L4,64" id="Line-Copy"></path>
+        </g>
+    </g>
+</svg>

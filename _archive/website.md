@@ -74,9 +74,11 @@ LightStream was originally made to transfer 1 bitcoin from a offline computer. T
 
 <center>
 <h3>Download</h3>
+<p>
 iPhone - <a href="#">AppStore</a> (Soon)<br>
 MacOS - <a href="#">AppStore</a> (Soon)<br>
 Android - <a href="#">Google play</a> (Soon)
+</p>
 </center>
 
 <center>
