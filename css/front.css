@@ -23,9 +23,9 @@
 	/* text-decoration: none;  */
 	color: black;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
 	.main .quote {
-		font-size: 36px;
+		font-size: 32px;
 		font-weight: bold;
 		padding-left: 1em;
 		padding-right: 1em;
