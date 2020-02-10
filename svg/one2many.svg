@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="98px" viewBox="0 0 124 98" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="noun_one-to-many_1406451" transform="translate(-2.000000, -15.000000)" stroke="#000000" stroke-width="6">
+            <g id="Group" transform="translate(5.000000, 18.000000)">
+                <g transform="translate(46.000000, 0.000000)" id="Path">
+                    <polyline points="44.9 1.6 0.5 46 44.9 90.4"></polyline>
+                    <polyline points="29 91.4 45.9 91.4 45.9 74.5"></polyline>
+                    <polyline points="60 34.1 71.6 46.3 59.4 57.9"></polyline>
+                    <polyline points="29 0.6 45.9 0.6 45.9 17.5"></polyline>
+                </g>
+                <path d="M116.5,46 L18.3,46" id="Path"></path>
+                <circle id="Oval" cx="9.1" cy="46" r="8.7"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+@import "reset.css";
+@import "typography.css";
+@import "footer.css";
+@import "header.css";
+@import "main.css";
+@import "responsive.css";
+@import url("https://fonts.googleapis.com/css?family=Comfortaa&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Raleway:600&display=swap");
+html {
+	width: 100%;
+	height: 100%; /*This must be set or else the main div cant have 100% either*/
+	text-align: center;/*important to get center align working*/
+}
+body {
+	width: 100%;
+	height: 100%; /*This must be set or else the main div cant have 100% either*/
+	text-align: center;/*important to get center align working*/
+}

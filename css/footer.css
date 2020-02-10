@@ -1,0 +1,21 @@
+.footer {
+	position: relative;
+	clear: both;
+   /* background-color: green; */
+   color: black;
+   height: 10%;
+   justify-content: center;
+   display: flex;
+   align-items: center;
+   text-align: center;
+   margin: auto; /* margin: 0px;  For some reason this is needed, when you set the max-width */
+}
+.footer-list { /*Centers footer vertically*/
+  text-align: center;
+}
+.footer-list a {
+	/* background-color: gray; */
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   text-decoration: none;
+   color: black;
+}

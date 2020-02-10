@@ -1,0 +1,25 @@
+@import "general.css";
+.main .quote {
+	min-width: 400px;
+	max-width: 800px;
+	/* background-color: purple; */
+	margin: auto; /* margin: 0px;  For some reason this is needed, when you set the max-width */
+	text-align: center;
+	display: flex;
+	align-items: center;
+	height: 90%;
+}
+
+.main .quote {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 42px;
+	font-weight: bold;
+	padding-left: .5em;
+	padding-right: .5em;
+ 	/* background-color: silver; */
+}
+
+.main .auther a {
+	/* text-decoration: none;  */
+	color: black;
+}

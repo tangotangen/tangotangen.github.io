@@ -1,0 +1,71 @@
+.main {
+	/* margin: auto; margin: 0px;  For some reason this is needed, when you set the max-width */
+	width: 100%;
+   /* background-color: gray; */
+	height: 80%;
+	min-height: 400px;
+	min-width: 300px;
+	max-width: 800px;
+	margin: auto;
+}
+/*
+.main #a { background-color: red; }
+.main #b { background-color: green; }
+.main #c { background-color: purple; }
+.main #d { background-color: orange; }
+
+ */
+
+.main .box {
+  text-align: center;
+  margin: 0px;
+  color: black;
+  text-align: center;
+  margin: auto; /* margin: 0px;  For some reason this is needed, when you set the max-width */
+  display: flex;
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+   padding-bottom: 1em;
+}
+.main .inner .title {
+	font-size: 24px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	text-decoration: underline;
+   color: black;
+	font-weight: bold;
+}
+.main .inner .content {
+	background-color: none;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+	margin: auto;
+	text-decoration: none;
+}
+/* Our Grid Code */
+.main {
+	/* background-color: blue; */
+  display: grid;
+  grid-template-columns: 1fr 1fr;/*2 rows*/
+  grid-template-rows: 40vh;
+}
+/* try to resize the screen */
+@media screen and (max-width: 600px) {
+  .main {
+	    display: grid;
+	    grid-template-columns: 1fr;
+	    grid-template-rows: 40vh 40vh 40vh 40vh;/*4 rows*/
+
+  }
+  .main .box {
+	  padding-left: 3em;
+	  padding-right: 3em;
+  }
+  .main {
+	  	height: auto;/*enables footer to clear main*/
+  }
+}

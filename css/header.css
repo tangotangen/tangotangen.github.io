@@ -1,0 +1,46 @@
+.header {
+	text-align: center;/*important to get center align working*/
+	width: 600px;
+   /* background-color: yellow; */
+	/* padding: 20px;  */
+	/* line-height: 40px;  */
+	text-align: center;
+	height: 10%;
+	margin: auto; /* margin: 0px;  For some reason this is needed, when you set the max-width */
+}
+.header .logo {
+	 /* background-color: pink; */
+	 float: left;
+	 width: 200px;
+	 height: 100%;
+	 font-size: 30px;
+	 font-weight: bold;
+	 justify-content: center;
+    display: flex;
+    align-items: center;
+	 text-align: center;
+	 margin: auto; /* margin: 0px;  For some reason this is needed, when you set the max-width */
+}
+.header .logo a {
+	text-decoration: none;
+	color: black;
+}
+.header .nav {
+	width: 400px;
+   height: 100%;
+	/* background-color: red; */
+	float: left;
+	font-size: 14px;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	margin: auto; /* margin: 0px;  For some reason this is needed, when you set the max-width */
+}
+.header .nav a {
+ 	 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	 text-decoration: none;
+	 color: black;
+	 float: none;
+	 /* background-color: orange; */
+}

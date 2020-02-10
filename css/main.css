@@ -1,0 +1,7 @@
+.main {
+	margin: auto; /* margin: 0px;  For some reason this is needed, when you set the max-width */
+	width: 100%;
+   /* background-color: yellow; */
+	height: 80%;
+	min-height: 400px;
+}

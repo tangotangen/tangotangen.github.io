@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="318px" height="320px" viewBox="0 0 318 320" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Download" transform="translate(-1249.000000, -743.000000)">
+            <g id="Group-2" transform="translate(1250.000000, 744.000000)">
+                <path d="M158,0 L158,0 C245.26099,-1.60295839e-14 316,70.7390095 316,158 L316,160 C316,247.26099 245.26099,318 158,318 L158,318 C70.7390095,318 1.06863893e-14,247.26099 0,160 L0,158 C-1.06863893e-14,70.7390095 70.7390095,1.60295839e-14 158,0 Z" id="App-Icon" stroke="#838383" fill="#FFFFFF"></path>
+                <g id="Group-6-Copy" transform="translate(47.000000, 45.000000)">
+                    <polygon id="Mask-Copy" fill="#00FF00" transform="translate(166.500000, 144.000000) rotate(-360.000000) translate(-166.500000, -144.000000) " points="166.802839 96 222 192 111 192"></polygon>
+                    <polygon id="Mask-Copy" fill="#0000FF" transform="translate(55.500000, 144.000000) rotate(-360.000000) translate(-55.500000, -144.000000) " points="55.8028386 96 111 192 0 192"></polygon>
+                    <polygon id="Mask-Copy-2" fill="#FF0000" transform="translate(111.500000, 48.000000) rotate(-360.000000) translate(-111.500000, -48.000000) " points="111.802839 0 167 96 56 96"></polygon>
+                    <polygon id="Mask-Copy" fill="#000000" transform="translate(111.500000, 144.000000) rotate(-180.000000) translate(-111.500000, -144.000000) " points="111.802839 96 167 192 56 192"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
