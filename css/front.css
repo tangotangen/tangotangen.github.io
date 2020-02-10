@@ -1,6 +1,6 @@
 @import "general.css";
 .main .quote {
-	min-width: 400px;
+	min-width: 300px;
 	max-width: 800px;
 	/* background-color: purple; */
 	margin: auto; /* margin: 0px;  For some reason this is needed, when you set the max-width */
