@@ -9,7 +9,6 @@
 	align-items: center;
 	height: 90%;
 }
-
 .main .quote {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 42px;
@@ -18,7 +17,6 @@
 	padding-right: .5em;
  	/* background-color: silver; */
 }
-
 .main .auther a {
 	/* text-decoration: none;  */
 	color: black;
