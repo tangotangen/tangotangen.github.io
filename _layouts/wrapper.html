@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+	<head>
+	  <meta charset="utf-8">
+	  <meta name="viewport" content="width=device-width">
+	  <meta name="author" content="Lightstream">
+	  <meta name="description" content="Lightstream is a safe cross-platform transfer technology">
+	  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+	  {% if page.title != null %} <!-- this can be written into one line, fix it later -->
+	  	 	<link rel="stylesheet" href="{{ "/css/" | prepend: site.baseurl }}{{ page.dir | remove:'/' | downcase }}{{".css"}}">
+	  {% else %}
+	  	 	<link rel="stylesheet" href="{{ "/css/front.css" | prepend: site.baseurl }}">
+	  {% endif %}
+	  <!-- IP anonymization with gtag.js - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-C1TFFVSRNV"></script>
+		<script>
+		    window.dataLayer = window.dataLayer || [];
+		    function gtag() {
+		        dataLayer.push(arguments);
+		    }
+		    gtag('js', new Date());
+		    gtag('config', 'G-C1TFFVSRNV', { 'anonymize_ip': true });
+		</script>
+	</head>
+	<body>
+		{% include header.html color="blue" %}
+		<div class="main">
+		   {{ content }}
+		</div>
+		{% include footer.html %}
+	</body>
+</html>

@@ -1,6 +1,2 @@
 @import "general.css";
 @import "download.css";
-.header .nav a.get {
-	text-decoration: underline;
-	color: black;
-}

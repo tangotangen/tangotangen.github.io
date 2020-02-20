@@ -44,3 +44,7 @@
 	 float: none;
 	 /* background-color: orange; */
 }
+.header .nav a.active {
+	text-decoration: underline;
+	color: black;
+}

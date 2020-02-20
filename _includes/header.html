@@ -1,0 +1,18 @@
+<header class="header">
+   <div class="logo">
+	   <a href="{{ site.url }}">{{ site.title }}</a> <!-- header links to root, baseurl wasnt working so we use url instead, can also use back ../ -->
+   </div>
+   <div class="nav">
+   {% assign newArr = ''|split:'' %} <!-- we need to filter the pages to only include pages with title -->
+   {% for p in site.pages %}
+      {% if p.title != null %} <!-- must have title in front mater or else its not a valid page -->
+          {% assign newArr = newArr|push:p%}
+      {% endif %}
+   {% endfor %}
+	{% for p in newArr %} <!-- makes links of site pages -->
+		{% if p.title != null %} <!-- must have title in front mater or else its not a valid page -->
+			 <a href="{{ p.url }}" {% if p.title == page.title %} class="active" {% endif %}>{{ p.title }}</a> {% if forloop.last == false %} &nbsp;-&nbsp; {% endif %} <!-- add binding stroke after each link unless its at end, the forloop.last makes sure to not append binding stroke to last item-->
+		{% endif %}
+	{% endfor %}
+   </div>
+</header>

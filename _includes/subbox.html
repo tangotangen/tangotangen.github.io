@@ -1,0 +1,9 @@
+<div class="box" id="{{ include.id }}">
+	<div class="inner">
+		<!-- get rid of the width in the future, fix the svg size instead -->
+		<img class="icon" width="{{ include.width }}" alt="img" src="{{ '/assets/svg/' | prepend: site.baseurl }}{{ include.svg }}">
+		<br><br>
+		<p class="title">{{ include.title }}</p>
+		<p class="content">{{ include.content }}</p>
+	</div>
+</div>
