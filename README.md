@@ -7,6 +7,7 @@ This is a custom Jekyll theme that is used at: [https://lightstream.to](https://
 - Uses Jekyll + Markdown to manage content
 - Can be hosted for free on github
 - Can use custom domain from [namecheap.com](namecheap.com) etc
+- Uses anonymized Google analytics (GDPR friendly)
 
 ### How do I get it
 - Fork it to your github account
@@ -20,3 +21,4 @@ This is a custom Jekyll theme that is used at: [https://lightstream.to](https://
 - Add subPages with more info
 - Make a blog section
 - Better fonts (rounded font for title-logo etc) Use google fonts
+- Insert google analytics ID through the _config.yml
