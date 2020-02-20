@@ -19,3 +19,4 @@ This is a custom Jekyll theme that is used at: [https://lightstream.to](https://
 - Fix the svgs to have the same size
 - Add subPages with more info
 - Make a blog section
+- Better fonts (rounded font for title-logo etc) Use google fonts
