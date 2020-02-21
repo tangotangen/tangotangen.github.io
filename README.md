@@ -1,7 +1,7 @@
 # Lightstream landing-page theme
 
 ### What is it
-This is a custom Jekyll theme that is used at: [https://lightstream.to](https://lightstream.to)
+This is a custom Jekyll theme that was made for: [https://lightstream.to](https://lightstream.to)
 
 ### How does it work
 - Uses Jekyll + Markdown to manage content
